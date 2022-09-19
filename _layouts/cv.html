@@ -11,24 +11,17 @@ layout: default
 
           <article>
             <div class="cv">
-              {% for entry in site.data.cv %}
+              <!-- {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <div>
-                  {% if entry.type == "list" %}
-                    {% include cv/list.html %}
-                  {% elsif entry.type == "map" %}
-                    {% include cv/map.html %}
-                  {% elsif entry.type == "nested_list" %}
-                    {% include cv/nested_list.html %}
-                  {% elsif entry.type == "time_table" %}
-                   {% include cv/time_table.html %}
-                  {% else %}
-                    {{ entry.contents }}
-                  {% endif %}
-                  </div>
                 </div>
-              {% endfor %}
+              {% endfor %} -->
+              [Link for Download](https://ym-xu.github.io/assets/pdf/CV_YMXU.pdf)
+<object data="https://YimingXu1.github.io/files/CV_YMXU.pdf" style="width: 100%; max-width: 800px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" type="application/pdf" height="700">
+<embed src="https://YimingXu1.github.io/assets/pdf/CV_YMXU.pdf">
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://YimingXu1.github.io/files/CV_YMXU.pdf">Download PDF</a>.</p>
+</embed>
+</object>
               </div>
           </article>
 
