@@ -42,27 +42,7 @@ layout: default
 
           {% if page.news -%}
           <!-- News -->
-          <!-- {%- include news.html %} -->
-          - title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+          {%- include news.html %}
           {%- endif %}
           {% if page.selected_papers -%}
             <!-- Selected papers -->
