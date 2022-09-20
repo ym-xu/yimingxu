@@ -40,10 +40,11 @@ layout: default
             {{ content }}
           </div>
 
-          {% if page.news -%}
+          {% if page.education -%}
           <!-- News -->
           {%- include education.html %}
           {%- endif %}
+          
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
