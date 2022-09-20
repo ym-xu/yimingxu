@@ -17,3 +17,5 @@ projects: true
 ---
 
 I’m a second-year master's student majoring in Computer Science at VU and UvA. Before this, I was a research intern focused on Multimodal/Cross-modal Learning at [CogModal Group, Chinese Academy of Sciences](https://mmlab-iie.github.io/), supervised by [Prof. Jing Yu](https://mmlab-iie.github.io/author/jing-yu/).
+
+I am interested in multi-modal learning, cross-modal retrieval, and cross-modal generation, at the same time I like to use various deep learning and machine learning methods to solve real-life problems, I frequently participate in Kaggle competitions.
