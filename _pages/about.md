@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 projects: true
 ---
 
-I’m a second-year master's student majoring in Computer Science at VU and UvA. Before this, I was a research intern focused on cross-modal/Multimodal Learning at CogModal Group, Chinese Academy of Sciences, supervised by Prof. Jing Yu.
+I’m a second-year master's student majoring in Computer Science at VU and UvA. Before this, I was a research intern focused on cross-modal/Multimodal Learning at [CogModal Group, Chinese Academy of Sciences](https://mmlab-iie.github.io/), supervised by [Prof. Jing Yu](https://mmlab-iie.github.io/author/jing-yu/).
