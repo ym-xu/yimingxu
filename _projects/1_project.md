@@ -3,7 +3,7 @@ layout: page
 title: Video Events Search System
 description: a project with a background image
 img: assets/img/mksdemo.gif
-redirect: https://github.com/YimingXu1/videoEventSearchs
+redirect: https://github.com/YimingXu1/videoEventSearch
 importance: 1
 category: work
 ---
