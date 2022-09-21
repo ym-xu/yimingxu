@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Modeling Text with Graph Convolutional Network for Cross-Modal Information Retrieval.
-date:   2022-03-21 16:40:16
+date:   2022-06-13 16:40:16
 description: 
-tags: Cross-modal-Retrieval GCN
+tags: Crossmodal-Retrieval GCN
 categories: Literature-Notes
 ---
 
