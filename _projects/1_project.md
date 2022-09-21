@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
+title: Video Events Search System
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/mksdemo.gif
+redirect: https://github.com/YimingXu1/videoEventSearchs
 importance: 1
 category: work
 ---

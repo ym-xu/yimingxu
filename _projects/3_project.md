@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Sentiment Analysis
+description: Mining sentiment about COVID-19 restrictions in YT comments
+img: assets/img/youtube.gif
+redirect: https://github.com/ym-xu/Youtube-Comments-Sentiment-Analysis
 importance: 3
 category: work
 ---

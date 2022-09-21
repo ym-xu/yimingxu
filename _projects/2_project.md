@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Phrase Matching
+description: U.S. Patent Phrase to Phrase Matching
+img: assets/img/uspppm.jpg
+redirect: https://github.com/ym-xu/US-Patent-Phrase-to-Phrase-Matching
 importance: 2
 category: work
 ---
