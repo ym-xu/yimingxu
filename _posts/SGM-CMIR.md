@@ -3,8 +3,8 @@ layout: post
 title:  Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval
 date:   2022-03-18 16:40:16
 description: 
-tags: formatting links
-categories: sample-posts
+tags: Cross-modal Retrieval
+categories: Literature Notes
 ---
 
 ## Overview
