@@ -29,7 +29,7 @@ The workshop explored the computational and scientific issues surrounding the di
 
 # SPEAKING ROSETTA
 
-![alt img](https://github.com/YimingXu1/multimodel-learning-notes/blob/main/Papers/ref/Speaking%20Rosetta%20project.jpg)
+![alt img](https://ym-xu.github.io/assets/ref/Speaking%20Rosetta%20project.jpg)
 
 Fig 1 is the visual representation of the end-to-end systems, and structure, of the Rosetta project. 
 
